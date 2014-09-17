@@ -1,0 +1,10 @@
+{
+    "name": "gallery-bootstrap-tabview",
+    "builds": {
+        "gallery-bootstrap-tabview": {
+            "jsfiles": [
+                "bootstrap-tabview.js"
+            ]
+        }
+    }
+}

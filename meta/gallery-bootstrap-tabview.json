@@ -1,0 +1,7 @@
+{
+    "bootsgtrap-gallery-tabview": {
+        "use": [
+            "tabview"
+        ]
+    }
+}
